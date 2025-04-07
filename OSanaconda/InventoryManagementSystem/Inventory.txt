@@ -1,0 +1,4 @@
+1,Milk Bar,5,100
+2,5 star,10,200
+3,Cake,400,5
+4,ButterCup,30,80
